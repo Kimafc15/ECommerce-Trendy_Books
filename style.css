@@ -71,7 +71,7 @@ button:active {
 }
 
 .btn {
-  background-color: #7342d6;
+  background-color: #bb3bc5;
   color: white;
   padding: 12px 24px;
   font-size: 20px;
@@ -80,7 +80,7 @@ button:active {
 }
 
 .text--teal {
-  color: #008080;
+  color: #24a3c0;
 }
 
 .logo {
@@ -291,7 +291,7 @@ header {
 
 /********** FEATURES **********/
 
-#features {
+.features {
     padding-top: 8vw;
     background-color: rgba(115, 66, 214, 0.1);
 }
